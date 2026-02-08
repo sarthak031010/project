@@ -1,7 +1,6 @@
 # project
-Modern, responsive Shopify-style product page built with HTML, CSS, and JavaScript. Features include interactive product gallery with zoom-on-hover, selectable color swatches, size options, tabbed product info, modals for size chart and color comparison, and scrollable carousels. Ideal for e-commerce portfolios and demo stores.
+Modern, responsive product page built with HTML, CSS, and JavaScript. Features include interactive product gallery with zoom-on-hover, selectable color swatches, size options, tabbed product info, modals for size chart and color comparison, and scrollable carousels. Ideal for e-commerce portfolios and demo stores.
 
-# Shopify-Style Product Page
 
 ## Overview
 This project is a **modern, responsive e-commerce product page** built using **HTML, CSS, and JavaScript**, designed to replicate a professional Shopify-style layout. The page is ideal for showcasing products online, portfolios, mock Shopify stores, or real e-commerce applications. It features a clean interface, interactive elements, and a fully responsive design that adapts seamlessly across desktop, tablet, and mobile screens.
